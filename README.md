@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Soufiane Bakki
 
-<!--
-**soufianebakki1/soufianebakki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (React.js / Node.js)  
+💻 Passionate about building real-world applications  
+📍 Based in Morocco  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- JavaScript, PHP, SQL
+- React.js, Node.js
+- MySQL, MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Event Management Platform (React, PHP, MySQL)
+- Patient Management Dashboard (React)
+- Patient QR Code System
+
+## 📫 Contact Me
+- Email: bakki.soufiane@outlook.com
+- Portfolio: https://soufiane-bakki-portfolio.vercel.app/
